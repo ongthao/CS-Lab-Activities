@@ -1,0 +1,10 @@
+/*Name: Ong Thao
+  Program Description: This is the interface that we are implementing for our stack that consists of the methods we need to implement 
+  Date Created: 6/26/18*/
+public interface Stack<T> {
+     public int size();
+     public boolean isEmpty();
+     public Object pop(); 
+     public void push (T element); 
+     public Object peek();
+}
