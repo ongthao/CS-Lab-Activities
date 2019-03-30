@@ -1,3 +1,8 @@
+/*Name: Ong Thao
+ * Program description: purpose of this class is to create the Double link list object. 
+ * Date created: 2/15/19
+ */
+
 public class DoubleLink {
 	private Node front;
 	private int size = 0;

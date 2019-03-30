@@ -1,3 +1,8 @@
+/*Name: Ong Thao
+ * Program Description: Purpose of this program is to create the nodes for the double linked lists. (the nodes are the elements in the linked list)
+ * Date created: 2/15/19
+ */
+
 public class Node {
 	private int num;
 	private Node head;

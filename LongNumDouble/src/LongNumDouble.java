@@ -1,3 +1,8 @@
+/*Name: Ong Thao
+ * Program description: Purpose of this program is to use double link lists to store long numbers with a few features.
+ * Date Created: 2/15/19
+ */
+
 import java.util.*;
 import java.io.*;
 
