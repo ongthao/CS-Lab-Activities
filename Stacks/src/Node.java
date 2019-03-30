@@ -1,3 +1,8 @@
+/*Name: Ong Thao
+ * Purpose of this class is to create nodes (or elements) to use for the linked list.
+ * Date created: 2/15/19
+ */
+
 public class Node
 {
 	private String s;

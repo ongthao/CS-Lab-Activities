@@ -1,3 +1,7 @@
+/*Name: Ong Thao
+ * This program is the driver class that tests if my stack is working correctly with linked lists. 
+ * Date Created: 2/15/19
+ */
 public class LinkStackQueueDriver {
 	public static void main(String[] args)
 	{

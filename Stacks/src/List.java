@@ -1,3 +1,8 @@
+/*Name: Ong Thao
+ * The purpose of this class is to create the linked list that will be used in the stack.
+ * Date created: 2/15/19
+ */
+
 public class List {
 	private Node front;
 	

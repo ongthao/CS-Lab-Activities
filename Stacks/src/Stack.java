@@ -1,3 +1,8 @@
+/*Name: Ong Thao
+ * Purpose of this class is to push, pop, and peek a stack using linked lists in which is called by the driver. 
+ * Date created: 2/15/19
+ */
+
 public class Stack {
 	private List nums;
 	
