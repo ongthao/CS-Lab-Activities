@@ -1,7 +1,8 @@
 #Ong Thao
-
 #CSC 35 Project: Splat Squid Splat
+#Project Description: Purpose of this project is to emulate a battle royale game where each player attacks each other until one last player survives and wins the game. 
 
+#Note: This project was created and executed using Devin Cook's CSC 35 Library and the Putty/UNIX terminal.  
 
 
 .data 
